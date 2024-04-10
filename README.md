@@ -1,4 +1,4 @@
-<h1 align="center">gigCrafters</h1>
+<h1 align="center">GigCrafters</h1>
 
 <h3 align="center">The primary objective of our website is to establish a dynamic online marketplace that efficiently connects top-notch freelancers with clients, offering a platform where individuals can buy and sell services across a diverse range of categories, ensuring efficiency and quality in every project.</h3>
 
@@ -66,33 +66,48 @@ As for the front end, the UI has only been built using JSX and Scss. For state m
 
 <br />
 
-## Glimpses of gigCrafters 😉 :
+## Glimpses of gigCrafters :
 
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/gjVL5YN/6.png"  alt="home" /></td>
-    <td><img src="https://i.ibb.co/Zzjgdpw/15.png"  alt="slider" /></td>
+    <td><img src="https://i.ibb.co/X7R25RP/Picture1.png"/></td>
+    <td><img src="https://i.ibb.co/FmHK510/Picture2.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/sJZxxbQ/13.png"  alt="men" /></td>
-   <td><img src="https://i.ibb.co/86PbJsy/5.png"  alt="allProducts" /></td>
+    <td><img src="https://i.ibb.co/bsj3HKB/Picture3.png"/></td>
+   <td><img src="https://i.ibb.co/Gvgq0St/Picture4.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/YD64RMF/1.png" alt="allProducts" /></td>
-    <td><img src="https://i.ibb.co/6Jm5spp/12.png"  alt="men" /></td>
+    <td><img src="https://i.ibb.co/W3LQ8V7/Picture5.png"/></td>
+    <td><img src="https://i.ibb.co/kgGj3g4/Picture6.png"/></td>
+  </tr>
+ <tr>
+    <td><img src="https://i.ibb.co/SPB7xJX/Picture7.png"/></td>
+    <td><img src="https://i.ibb.co/WV0cQv1/Picture8.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/h9V86Jk/7.png" alt="allProducts" /></td>
-    <td><img src="https://i.ibb.co/FXjnnpp/8.png"  alt="men" /></td>
+    <td><img src="https://i.ibb.co/PjcLgGQ/Picture9.png"/></td>
+    <td><img src="https://i.ibb.co/QQ5f71F/Picture10.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/WfWKc9b/9.png" alt="allProducts" /></td>
-    <td><img src="https://i.ibb.co/p0ntQFY/11.png"  alt="men" /></td>
+    <td><img src="https://i.ibb.co/FWGSBJ7/Picture11.png"/></td>
+    <td><img src="https://i.ibb.co/xX6T3Xd/Picture12.png"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/v14jh1w/10.png" alt="allProducts" /></td>
-    <td><img src="https://i.ibb.co/9G6Xzyn/16.png" alt="allProducts" /></td>
-    <td></td>
+    <td><img src="https://i.ibb.co/dtMVZF0/Picture13.png"/></td>
+    <td><img src="https://i.ibb.co/bvrx4zc/Picture14.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/SN3r65w/Picture15.png"/></td>
+    <td><img src="https://i.ibb.co/09cKGHK/Picture16.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/TqHMVxm/Picture17.png"/></td>
+    <td><img src="https://i.ibb.co/4jWcwBK/Picture18.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.ibb.co/HVGVKgt/Picture19.png"/></td>
+    <td><img src="https://i.ibb.co/Qnvm3J7/Picture20.png"/></td>
   </tr>
 </table>
 
