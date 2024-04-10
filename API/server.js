@@ -30,6 +30,11 @@ const connect = async () => {
     }
 };
 
+app.listen(8800,()=>{
+    connect()
+    console.log("Backend is running!")
+})
+
 //for cors library we faced this in client side in login
 app.use(cors({origin:"http://localhost:3000", credentials: true}))
 // if we dont use thunder client will give an error message
@@ -52,7 +57,7 @@ app.use((err, req, res, next)=>{
     return res.status(errorStatus).send(errorMessage);
 })
 
-app.listen(8800, () => {
-    connect();
-    console.log("Backend Server is Running...")
-})
+// app.listen(8800, () => {
+//     connect();
+//     console.log("Backend Server is Running...")
+// })
